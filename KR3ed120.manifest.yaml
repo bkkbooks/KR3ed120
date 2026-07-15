@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed120/v1
 canonical_location: https://kanripo.org/bkk/KR3ed120/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 回生集
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed120_000.yaml, hash: 'sha256:b4a47be5081cbe9b47d763c24c915bea54aa85ad62091a5a66eee3bc987b43aa'}
-  - {seq: 1, filename: KR3ed120_001.yaml, hash: 'sha256:cc0aa6316e8c68561b096d39b8c70cc97ab766ba99178f8399675585cf74f6b2'}
-  - {seq: 3, filename: KR3ed120_003.yaml, hash: 'sha256:bcea28c38c6f4b8929c2dfc7f3033907105e64bbb10ea37ed24e362ae3de79f9'}
+  - {seq: 0, filename: KR3ed120_000.yaml, hash: 'sha256:a526eb391030df2abbca15ebb9b950701337453ae0a29591587ce6a54f0c6838'}
+  - {seq: 1, filename: KR3ed120_001.yaml, hash: 'sha256:00e052bcca267cca93eba0d95ec9a520c0073d01319c31c12b5186460dd8ca91'}
+  - {seq: 3, filename: KR3ed120_003.yaml, hash: 'sha256:2d014212a35defb7c4f760538bc64eaad37b1c3a6b4325f6f42e051685a775b4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed120_000.markers.yaml, hash: 'sha256:d5c8895185217cd64140ab2df58dada05b9323c13bbd60762d126bd7a239b868'}
-  - {seq: 1, role: markers, filename: assets/KR3ed120_001.markers.yaml, hash: 'sha256:8a88e2fb90c7c5d12eeb45a5313208b3dababb14858eee02afbf2565d945202f'}
-  - {seq: 3, role: markers, filename: assets/KR3ed120_003.markers.yaml, hash: 'sha256:b73ac6359a2fb7e76ca46bc4e229f50f4a3819b267ce260d81582a72f45b2d45'}
+  - {seq: 0, role: markers, filename: assets/KR3ed120_000.markers.yaml, hash: 'sha256:07227270feb3c2c26076062c9bf3e54379f5db5500006ace0979b3ea5a2154b5'}
+  - {seq: 1, role: markers, filename: assets/KR3ed120_001.markers.yaml, hash: 'sha256:409a0b1746de38da8fba609bc0c73068bd69dd2f7a0574b5b4e8fe4eb50d8f14'}
+  - {seq: 3, role: markers, filename: assets/KR3ed120_003.markers.yaml, hash: 'sha256:bc9c28eb885aeeca75023eceee30ea761ca4f8429247a2ab8ccf954adbfa71d7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4815,4 +4815,7 @@ table_of_contents:
   label: 治癬藥神方
   type: section
   level: 4
-hash: sha256:9bf1fc0fb4a6320ac09ab90242ca54626a52a027e91d6cce24f42443231b633e
+hash: sha256:f1edd7eac9d9a1512fb2a0b5730be80716672966de0762fd26d5b1309de14b64
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
