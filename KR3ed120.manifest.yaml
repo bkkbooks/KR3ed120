@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3ed120_003.yaml, hash: 'sha256:2d014212a35defb7c4f760538bc64eaad37b1c3a6b4325f6f42e051685a775b4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ed120_000.markers.yaml, hash: 'sha256:07227270feb3c2c26076062c9bf3e54379f5db5500006ace0979b3ea5a2154b5'}
-  - {seq: 1, role: markers, filename: assets/KR3ed120_001.markers.yaml, hash: 'sha256:409a0b1746de38da8fba609bc0c73068bd69dd2f7a0574b5b4e8fe4eb50d8f14'}
-  - {seq: 3, role: markers, filename: assets/KR3ed120_003.markers.yaml, hash: 'sha256:bc9c28eb885aeeca75023eceee30ea761ca4f8429247a2ab8ccf954adbfa71d7'}
+  - {seq: 1, role: markers, filename: assets/KR3ed120_001.markers.yaml, hash: 'sha256:f49300d6385b7f30141d58bbe47b07ec3502c9320699c36373b64c789c5e98db'}
+  - {seq: 3, role: markers, filename: assets/KR3ed120_003.markers.yaml, hash: 'sha256:478356b381f7dbdfb12af9e5456040d2d8e1146c7f68ed5787f03cf55b278fc6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -4815,7 +4815,7 @@ table_of_contents:
   label: 治癬藥神方
   type: section
   level: 4
-hash: sha256:f1edd7eac9d9a1512fb2a0b5730be80716672966de0762fd26d5b1309de14b64
+hash: sha256:569f23d82cc98eb1338a393c6534f1acf7356da191b17dcc4a69ec900eb2b6ed
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
